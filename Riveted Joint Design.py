@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 # Manasvi Goyal 2K19/PE/034
 # Machine Design Project
 # Python Program For Longitudinal Butt Joint and Circumferential Lap Joint
