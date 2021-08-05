@@ -19,7 +19,7 @@ shells. The riveted joints are widely used for joining light metals. The
 function of rivets in a joint is to make a connection that has strength and
 tightness.
 
-<h2 id="top" align="center"> <img src="https://user-images.githubusercontent.com/55101825/127709839-628aec47-52d1-4331-be14-7c2341055b50.png"> </h2>
+<h2 id="top" align="center"> <img src="https://user-images.githubusercontent.com/55101825/127709839-628aec47-52d1-4331-be14-7c2341055b50.png" height="200" width="150"> </h2>
 
 There are two types of riveted joints :- <br><br>
 a) **Lap Joint** - A lap joint is that in which one plate overlaps the other and the two plates are then riveted together.<br><br>
